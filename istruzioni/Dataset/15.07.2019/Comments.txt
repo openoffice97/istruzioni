@@ -1,0 +1,7 @@
+15.07.2019
+Test to do an average regarding T_freezing for different 
+drop volumes and V=3V
+
+
+
+

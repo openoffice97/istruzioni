@@ -1,0 +1,277 @@
+04.06.2019
+
+2 drops of normal water
+-3V case
+RH 45-43.2
+Tamb 21.9
+
+Note: during the first cooling cycle the impulse of T is due to the almost istantaneous 
+formation of ice on the lateral region of the drop (circular shape of ice). T1 and T2 become 
+very similar when the drop is completely ice
+ 
+During the first melting region the "plateau" of T(t) is very big because is big the amount of
+ice turnung into water. This phenomenon seems to start at the bottom (water on the bottom and 
+ice on the top)
+
+The second cooling phase started with ice still at the top. In this case seems that the ice formation 
+was more caotic (small nuclei formation inside the drop) until the drop became completely ice
+
+During the second melting cycle water started to form at the bottom (water+ice at the top)
+
+ 
+2 drops of normal water
+-4V case
+RH 49.9-45.1-44.4-43.2
+Tamb 21.7-21.9
+
+Note: during the first cooling cycle the temperature impulse is due to ice formation of a slice of drop.
+There is also something similar to thermal noise that can be due to small regions in which there is 
+water-->ice
+
+The second cooling phase starts with ice still at the top. Also in this case small impulses appear 
+(maybe small ice nuclei formation)
+
+
+2 drops of normal water
+-6V case
+RH 51-47.3-46.3-45.7-43.6
+Tamb 21.9-22.1
+
+Note: during the first cooling cycle the temperature impulse is due to ice formation of a slice of drop.
+There is also something similar to thermal noise that can be due to small regions in which there is 
+water-->ice. When the drop is completely ice T1 and T2 are basically superposed
+
+During the first melting cycle water starts to form on the bottom. On the top the surface is more reflective 
+but there is still ice
+
+The second cooling phase starts with ice still at the top.
+
+
+
+2 drops of normal water
+-7V case
+RH 51.1-49.5-48-46.3-45.9-44.4
+Tamb 22-22.1
+
+Note: during the first cooling cycle the temperature impulse is due to ice formation of 
+a slice of drop.
+
+The second cooling phase starts with ice still at the top. During the cycle seems that 
+no ice nuclei are formed (no thermal noise). During the last part of the phase some small
+impulses are  present probably because of the formation of small ice filaments on the drop.
+
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+-2V case
+RH 49.5-47.4
+Tamb 22-22.1
+
+Note: during the first cooling cycle there is a thermal noise but nothing seems to happen. The same 
+effect is present during the first melting cycle.
+
+The second cooling cycle is a bit noisy but nothing happened.
+ 
+
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+-3V case
+RH 47-46.3-45.4
+Tamb 22-22.1
+
+Note: during the first cooling phase ice appears just on the bottom sides of the drop.
+
+Before the second cooling phase some "nuclei" were present. 
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+-4V case
+RH 51.2-48.6-47-46-46.8
+Tamb 22-22.1
+
+Note: during the first cooling cycle the T impulse appears because a region on the side 
+of the drop turned into ice
+
+The second cooling phase starts with ice inside the drop (central-top). In this cycle no slices
+of ice appear (quite slow freezing)
+
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+T0_drop=23.5deg
+-6V case
+RH 52.6-50.5-48.2-46.7
+Tamb 21.9-22.1
+
+Note:
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+T0_drop=23.5deg
+-7V case
+RH 51.5-50-48.5
+Tamb 22-22.1
+
+Note:
+
+(drop putted few seconds before Peltier ON)
+10 drops of normal water
+T0_drop=23.5deg
+-2V case
+RH 51.9-53.1-51.3-48.7-46.9-45.5
+Tamb 22-22.2
+
+Note: in the second cooling cycle a perturbation of the system is used.
+
+
+(drop putted few seconds before Peltier ON)
+10 drops of normal water
+T0_drop=23.7deg
+-3V case
+RH 57.2-52.9
+Tamb 22.6-22.8
+
+Note: during the first cooling cycle the impulse of T is due to a large area of the 
+drop surface on which we have water->ice (not on the bottom at first).
+
+(drop putted few seconds before Peltier ON)
+10 drops of normal water
+T0_drop=23.5deg
+-4V case
+RH 57.7-51.7-50-48.1
+Tamb 22.6-22.8-22.9
+
+Note:during the first cooling cycle just the bottom side region of the drop gives the 
+impulse for T and then the freezing process continue gradually
+
+The second cooling cycle starts with ice still inside the drop.
+
+
+(drop putted few seconds before Peltier ON)
+10 drops of normal water
+T0_drop=23.6deg
+-6V case
+RH 56.1-50.8-49.7-47.5-46.4
+Tamb 22.6-22.9
+
+Note:during the first cooling cycle ice starts to form in the bottom side region. The freezing 
+process continues gradually from the bottom to the top until the drop turns completely in ice.
+
+The second cooling cycle starts with ice still inside the drop, just the bottom part is of water.
+ 
+(drop putted few seconds before Peltier ON)
+10 drops of normal water
+T0_drop=23.6deg
+-7V case
+RH 56-52.5-51-49.4-48.1-47-47.2
+Tamb 22.8-23
+
+Note: during the first cooling cycle the T impulse is due to ice formation just on the bottom
+side layer (drop-plate contact region) and freezing process continues gradually.
+
+During the first melting cycle small droplets of water are on the plate.
+
+The second cooling cycle starts with ice still inside the drop, just the bottom part is of water.
+
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=23.7deg
+-2V case
+RH 56.3-53-51-49.4-47.5-46.6
+Tamb 23.1-23.2-23.1
+
+Note:
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=23.8deg
+-3V case
+RH 59.2-56.8-52.8-51-50
+Tamb 22.9-23.1-23.2
+
+Note: during the first cooling cycle just the top surface is opaque (considerable ice fraction).
+
+The second cooling cycle starts with ice on the top.
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=23.8deg
+-4V case
+RH 57.7-53.1-51.1-48.4
+Tamb 22.9-23.1-23.2
+
+Note:during the first cooling cycle a relative large region of the lateral surface of the drop 
+turned into ice istantaneously (see the peak of T).
+
+At the beginning of the second cooling cycle a small quantity of ice is on the top of the drop.
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=24.8deg
+-6V case
+RH 58.1-57-50.4-49-47.4
+Tamb 22.9-23.1-23.2
+
+Note: in the first melting cycle an error of Agilent occurred.
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=7.4deg
+-2V case
+RH 56.6-54-53
+Tamb 23.2-23.3
+
+Note:
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=6.6deg
+-4V case
+RH 58.1-54-52-50-49.1-48.2-47.5
+Tamb 23.4-23.5
+
+Note:
+
+
+(drop putted few seconds before Peltier ON)
+2 drops of normal water
+T0_drop=7.2deg
+-7V case
+RH 57.2-55.4-52.5-49.4
+Tamb 23.5-23.6
+
+Note:
+
+DO 5 AND 10 DROPS WITH SMALLLER T0
+
+
+
+
+
+
+Salt and water (salt concentration sodium chloride 35 g/l) -> salty water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

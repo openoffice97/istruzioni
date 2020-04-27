@@ -1,0 +1,115 @@
+11.06.19
+
+T_0,drop=19.8°C.
+
+
+2V case
+10 ul
+
+RH 50.9-49.8
+Tamb 19.6-19.7
+
+Note: during the first cooling cycle nothing happens.
+
+
+3V case
+10 ul
+
+RH 50.9-49.4
+Tamb 19.6
+
+Note: during the first cooling cycle the freezing is very rapid and started 
+before the stable Peltier temperature was reached.
+During the first melting cycle T1<T2 because the drop is changing phase.
+Before the second cooling cycle the drop is completely liquid. Also during the second cooling cycle
+the freezing phase is rapid.
+
+
+4V case
+10 ul
+
+RH 51.7-50.4-49-48.8
+Tamb 19.4-19.6
+
+Note: during the first cooling cycle the freezing is very rapid and started 
+before the stable Peltier temperature was reached. It seems that, for this kind of
+water, the freezing temperature is around -8°C.
+During the first melting cycle T1<T2 because the drop is changing phase and maybe 
+this affects the most T1 (phase change should happen at T=const).
+Before the second cooling cycle the drop seems completely liquid.
+During the second cooling cycle it seems that, for this kind of
+water, the freezing temperature is around -9°C (final subcooling 
+temperature=-15°C).
+During the second melting cycle the T behaviour appears more irregular.
+
+6V case
+10 ul
+
+RH 50.5-49.1-48.3
+Tamb 19.5-19.6
+
+Note: during the first cooling cycle the freezing is very rapid and it seems
+that -10°C is the freezing temperature of this kind of water. The ultimate T 
+subcooling = -17°C.
+
+7V case
+10 ul
+
+RH 49.9
+Tamb 19.6
+
+Note:
+
+------------
+
+2V case
+20 ul
+
+RH 51-50.7-50-49.3-48.4
+Tamb 19.6-19.7
+
+Note:
+
+3V case
+20 ul
+
+RH 50.9-49-48.8
+Tamb 19.6
+
+Note: during the first cycle it seems that T_freezing=-6°C more or less 
+(T_ultimate subcooling=-11°C).
+The second cooling cycle starts with a bit of ice at the top of the drop 
+(Tfreez=-4°C, Tultimate subcooling=-5°C).
+
+4V case
+20 ul, T0=20°C
+
+RH 50.6-49.7-48.5                                                                                                                                                                                                                                                                                                    
+Tamb 19.5-19.6
+
+Note: during the first cooling cycle freezing starts from the bottom.
+At the beginning of the second cooling cycle ice was still in the drop.
+
+
+6V case
+20 ul, T0=20°C
+
+RH 51.5-50.8-49-48.3                                                                                                                                                                                                                                                                                                
+Tamb 19.6-19.7
+
+Note: during the first cooling phase ice starts to form on the bottom.
+At the beginning of the second cooling cycle ice was still in the drop.
+
+
+7V case
+20 ul, T0=20°C
+
+RH 50.5-49.3-48.7                                                                                                                                                                                                                                                                                               
+Tamb 19.5-19.6
+
+Note: during the first cooling cycle ice starts to form from the bottom gradually
+(Tfreezing=-9°C more or less).
+At the beginning of the second cooling cycle ice was still in the drop.
+
+
+

@@ -1,0 +1,28 @@
+20.06.2019
+
+Test to measure T(t) without any drop for 2V, 3V, 4V, 6V and 7V. This can be used in order to
+have an idea about thermal conductivity of prepreg. In general they can be used as reference 
+curves.
+
+Thot = 7°C (temperature metal block)
+
+
+2V case
+RH 52.2-52.5
+Tamb 25-24.7
+
+3V case
+RH 54.8-52.6
+Tamb 24.3-24.2
+
+4V case
+RH 55.5-54.1-53.1
+Tamb 23.8-24
+
+6V case
+RH 
+Tamb 
+
+7V case
+RH 53.4-53.9
+Tamb 24

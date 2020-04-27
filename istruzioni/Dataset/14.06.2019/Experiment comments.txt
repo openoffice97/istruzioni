@@ -1,0 +1,44 @@
+14.06.19
+
+Calibration test Peltier
+
+2V case
+RH
+Tamb
+T_thermal bath
+
+Note:
+
+
+3V case
+RH
+Tamb
+T_thermal bath
+
+Note:
+
+
+4V case
+RH
+Tamb
+T_thermal bath
+
+Note:
+
+
+6V case
+RH
+Tamb
+T_thermal bath
+
+Note:
+
+
+7V case
+RH
+Tamb
+T_thermal bath
+
+Note:
+
+

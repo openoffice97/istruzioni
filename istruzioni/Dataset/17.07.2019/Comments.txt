@@ -1,0 +1,80 @@
+17.07.2019
+Experiments with prepreg with graphene in the middle
+
+NO DROP
+3V case
+Tamb 21.4
+RH 54.1-53.4
+
+4V case
+Tamb 21.4
+RH 55.1
+
+6V case
+Tamb 
+RH 
+
+7V case
+Tamb 21.3
+RH 54.5
+
+-----------------
+
+5µl drop, T0drop = 21.9°C
+
+3V case
+Tamb 21.2
+RH 53.8
+
+4V case
+Tamb 21.3
+RH 54
+
+6V case
+Tamb
+RH
+
+7V case
+Tamb 21.1
+RH 55
+
+
+-----------------
+
+20µl drop, T0drop=22.3°C
+
+3V case
+Tamb 21.3
+RH 53.8
+
+4V case
+Tamb 21.3
+RH 54.2
+
+6V case
+Tamb 21.4
+RH 54.7
+
+7V case
+Tamb 21.4
+RH 54.2
+
+------------
+
+40µl drop, T0drop=22.5°C
+
+3V case
+Tamb 21.5
+RH 54
+
+4V case
+Tamb 
+RH 
+
+6V case
+Tamb 
+RH 
+
+7V case
+Tamb 21.4
+RH 54.7

@@ -1,0 +1,65 @@
+27.06.19
+
+Tests in which we wait the stabilization of Peltier and we put a drop on the plate
+
+----------------------
+5ul, T0drop=20.5°C
+
+3V case
+RH 55.7-55.4-55.2-55.6
+Tamb 22.2-22.3-
+
+4V case
+RH 57.3-55.6-55.4-
+Tamb 22.4-
+
+6V case
+RH 55.6-56.2-55.1
+Tamb 22.5
+
+7V case
+RH 55.7-55.5
+Tamb 22.5
+
+
+Note: in almost all cases the drop starts fo freeze immediatly (the contact region), but 
+there is nothing related to the releasing of the latent heat.
+
+----------------------
+10ul, T0drop=20.65°C
+
+3V case
+RH 55.9-55.2-55.9-
+Tamb 22.6
+
+4V case
+RH 55.9-54.9
+Tamb 22.6-22.7
+
+6V case
+RH 55.3-55.8-55.2
+Tamb 22.7
+
+7V case
+RH 54.7-54.4
+Tamb 22.8
+
+----------------------
+20ul, T0drop=20.8°C
+
+3V case
+RH 55.2-55.8-55.2-54.7
+Tamb 22.8
+
+4V case
+RH 55.1-54.4-55.7-55-54.6
+Tamb 22.9
+
+6V case
+RH 55-54.4-54.7-55.3-54.4
+Tamb 22.9-23
+
+7V case
+RH 54.7-54.4-54.1-55.2
+Tamb 23
+

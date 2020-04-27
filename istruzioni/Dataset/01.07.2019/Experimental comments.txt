@@ -1,0 +1,127 @@
+01.07.2019
+
+Tests to see for 3V, 4V, 6V and 7V if Thot is different from
+T_metalblock and quantify it.
+
+
+Tests with constant cooling rate
+
+5 deg/min
+5ul water
+T0drop=24.7°C
+
+dt=360s
+
+Tamb 23.7-23.8
+RH 55.3-57.9-56.6-56.2
+
+
+10 deg/min
+5ul water
+T0drop=24.7°C
+
+dt=180s
+
+Tamb 23.7 
+RH 58.2-56.9
+
+
+20 deg/min
+5ul water
+T0drop=24.7°C
+
+dt=75s
+
+Tamb  23.7
+RH 55-
+
+-------
+
+5 deg/min
+10ul water
+T0drop=25.3°C°C
+
+dt=360s
+
+Tamb 23.8
+RH 53.3-54.9-55.4
+
+
+10 deg/min
+10ul water
+T0drop=25.3°C°C
+
+dt=180s
+
+Tamb 23.8
+RH 54.1-55.2
+
+
+20 deg/min
+10ul water
+T0drop=25.3°C°C
+
+dt=110s
+
+Tamb 23.8
+RH 54.6-
+
+-------
+
+5 deg/min
+20ul water
+T0drop=25.6°C
+
+dt=360s
+
+Tamb 23.7
+RH 53.6-56.3-55.4
+
+
+10 deg/min
+20ul water
+T0drop=25.6°C
+
+dt=180s
+
+Tamb 23.8
+RH 53.8-
+
+
+20 deg/min
+20ul water
+T0drop=23.7°C
+
+dt=110s
+
+Tamb 23.7-23.8
+RH 54.4-55.8-
+
+----------------------
+
+5 deg/min
+No drop
+
+dt=360s
+
+Tamb 23.8-23.9
+RH 55.1
+
+
+10 deg/min
+No drop
+
+dt=100s
+
+Tamb 23.8-23.9
+RH 55.9-56
+
+
+
+20 deg/min
+No drop
+
+dt=60s
+
+Tamb 23.9
+RH 55.7

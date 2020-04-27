@@ -1,0 +1,78 @@
+19.06.19
+
+
+3V case
+10 ul drop
+T0drop = 293.15K
+
+test 1
+Tfreez = -9°C
+
+test 2
+Tfreez = -8.8°C
+
+test 3
+Tfreez = -3.5°C
+
+test 4
+Tfreez = -8.5°C
+
+test 5
+Tfreez = -4.8°C
+
+test 6
+Tfreez = -5.8°C
+
+test 7
+Tfreez = -4.8°C
+
+test 8
+Tfreez = -6.8°C
+
+test 9
+Tfreez = -6.7°C
+
+test 10
+Tfreez = -6.9°C
+
+
+Tfreez_avg = -6.56°C
+
+------------------------
+
+3V case
+20 ul drop
+T0drop = 293.15K
+
+test 1
+Tfreez = -1°C
+
+test 2
+Tfreez = -1.3°C
+
+test 3
+Tfreez = -0.2°C
+
+test 4
+Tfreez = -1.1°C
+
+test 5
+Tfreez = -1.5°C
+
+test 6
+Tfreez = -2.1°C
+
+test 7
+Tfreez = -5.1°C
+
+test 8
+Tfreez = -3.4°C
+
+test 9
+Tfreez = -3.1°C
+
+test 10
+Tfreez = -2.6°C
+
+
+Tfreez_avg = -2.14°C

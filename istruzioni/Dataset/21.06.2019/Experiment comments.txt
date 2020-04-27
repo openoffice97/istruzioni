@@ -1,0 +1,202 @@
+21.06.2019
+
+The experiment consists in putting a water drop of a gived volume on the prepreg plate
+when the peltier reqches the regime. We should see a local increasing temperature due to the 
+initial temperature of the drop and during its cooling we should see a change of concavity when 
+there is the transition liquid-solid.
+
+3V case
+10 ul
+T0_drop=22.9°C
+
+RH 43-42.4
+Tamb 24-24.1
+
+Note: From the T profile it can be seen that there is a slope change due to phase change
+water->ice.
+
+
+
+4V case
+10 ul
+T0_drop=23°C
+
+RH 41.7-42-41.8
+Tamb 23.8-23.6
+
+Note:
+
+
+
+6V case
+10 ul
+T0_drop=23.1°C
+
+RH 42.3-42.6-42
+Tamb 23.5-23.4
+
+Note:
+
+-------------------------
+
+3V case
+20 ul
+T0_drop=23.2°C
+
+RH 42.1
+Tamb 23.4
+
+Note: The drop has a very elongated shape (not very spherical geometry)
+
+3V case (2)
+20 ul
+T0_drop=23.3°C
+
+RH 43-42.6
+Tamb 23.1-23.3
+
+Note: The drop geometry is better and fro T(t) we can see in a very good way the slope change
+due to ice formation inside the drop. 
+
+
+
+4V case
+20 ul
+T0_drop=23.3°C
+
+RH 41.9-43.3
+Tamb 23.3
+
+Note:
+
+
+6V case
+20 ul
+T0_drop=23.3°C
+
+RH 42.8-42.6
+Tamb 23.1-23.3
+
+Note: The liquid cooling phase is quite short, maybe because of the non perfect shape of the drop.
+
+
+
+7V case
+20 ul
+T0_drop=23.3°C
+
+RH 42.7
+Tamb 23.3
+
+Note: The liquid cooling is almost absent.
+
+-----------
+
+3V case
+30 ul
+T0_drop=23.3°C
+
+RH 42.8
+Tamb 23
+
+Note:
+
+3V case (2)
+30 ul
+T0_drop=23.3°C
+
+RH 42.8
+Tamb 23.2
+
+Note:
+
+4V case (400s of cooling)
+30 ul
+T0_drop=23.3°C
+
+RH 43.1-42.9-42.6-42.4
+Tamb 23.1-23.2
+
+Note: The slope change is clear in this experiment.
+
+
+
+6V case (400s of cooling)
+30 ul
+T0_drop=23.2°C
+
+RH 44-42.5-42.2
+Tamb 23.2-23.3-23.2
+
+Note:
+
+
+7V case (400s of cooling)
+30 ul
+T0_drop=23.3°C
+
+RH 42.5-42.2
+Tamb 23.2-23.3
+
+Note: As in the other cases with 7V the liquid cooling 
+
+
+
+4V case (400s of cooling)
+40 ul
+T0_drop=23.2°C
+
+RH 42.6
+Tamb 23.3
+
+Note:  
+
+
+6V case (400s of cooling)
+40 ul
+T0_drop=23.3°C
+
+RH 42.6
+Tamb 23.3
+
+Note: 
+
+
+7V case (400s of cooling)
+40 ul
+T0_drop=23°C
+
+RH 44
+Tamb 23.4
+
+Note: 
+
+
+
+
+--------
+
+From this simulation the cooling time is 400s, the Peltier off time is 200s
+
+3V case
+40 ul
+T0_drop=2°C
+
+RH 43.9-43.1-43.3-42.9
+Tamb 22.9-23
+
+Note: There is no liquid cooling region in T(t).
+
+
+
+3V case
+40 ul
+T0_drop=23.5°C
+
+RH 42.9-43.6-46.1-42.8
+Tamb 23-23.1
+
+Note: In this case we see the liquid cooling before the phase change happens.
+
+
+-------------

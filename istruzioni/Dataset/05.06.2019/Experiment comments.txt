@@ -1,0 +1,92 @@
+At the beginning the plate was completely wet due to condensation and it has been dryied.
+
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+T0_drop=7.2deg
+-2V case
+RH 59.3-57.8-56.4
+Tamb 21.8-21.9
+
+Note: during the cooling cycles a small divergence of T1 and T2 is present. This can be due 
+to ice formation in some small regions not visible with naked eyes. Durind the second cooling cycle 
+some nucleation effect is present inside the drop.
+
+During the second melting cycle some drops are present on the prepreg.
+ 
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+T0_drop=7.2deg
+-4V case
+RH 59.9-56.6
+Tamb 21.7-21.9
+
+Note: during the first cooling cycle the first impulse of T corresponds to something
+not visible, but the second one corresponds to ice formation on a lateral slice of the drop
+(right one). After that ice starts to form on the bottom lateral sides and rises.
+
+During the first melting cycle some small drops are present on the prepreg.
+
+The second cooling cycle starts with some ice still inside the drop. The T impulse is due to 
+ice formation on a ordinate slice on the drop side. (There is a small variation due to Agilent
+error).
+
+During the second melting cycle some small drops are present on the prepreg.
+
+
+(drop putted few seconds before Peltier ON)
+5 drops of normal water
+T0_drop=7.3deg
+-7V case
+RH 57.4-55.5-53-51.7
+Tamb 21.9-22
+
+Note: during the firts cooling cycle the T impulse (big) is due to ice formation of almost all 
+the drop surface. A very strange thing is that the minimum T reached by thermocouples is around -7 or -8 deg
+while usually for 7V we reach -20 or similar T.
+
+The T impulse during the second cooling cycle is due to a big anular slice turning into ice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

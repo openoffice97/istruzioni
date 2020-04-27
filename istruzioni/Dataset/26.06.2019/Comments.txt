@@ -1,0 +1,76 @@
+26.06.2019
+
+Thot = 7.2-7.3°C
+
+Tests for 20ul and 40ul
+
+------------------
+20ul, T0drop=27.5°C
+
+3V case
+RH 58.6-58.9-60.1-60.3-60
+Tamb 27.2-27.1-27
+
+4V case
+RH 59.5-61.6-61.2-60.6-61.6
+Tamb 26.9-26.8
+
+T0drop=27.4°C
+6V case
+RH 61.5-63-62.4-62-62.5-
+Tamb 26.6
+
+T0drop=27.3°C
+7V case
+RH 61.1-62.9-62-
+Tamb 26.6
+
+
+-----------
+40ul, T0drop=27.3°C
+
+3V case
+RH 62.6-64.2-64.5-
+Tamb 26.5
+
+T0drop=27.3°C
+4V case
+RH 62.2-62.6-64.7-65.1-63.6-63.3
+Tamb 26.5
+
+6V case
+RH
+Tamb
+
+7V case
+RH 64.5-66-65-
+Tamb 26.3
+
+-----------
+5ul, T0drop=27.3°C
+
+3V case
+RH 63.9-65.4-64.8-64.1
+Tamb 26.4
+
+T0drop=°C
+4V case
+RH 64.9-65.5-65.8-64.5-
+Tamb 26.5-26.6
+
+6V case
+RH 64.6-65-66.3-65.1-
+Tamb 26.6
+
+7V case
+RH 65.5-66.6-65.7-66.2
+Tamb 26.6-26.5
+
+
+
+----------
+Verify which thermocouple influence the other one
+T1 doesn t affect T2
+T2 affects T1
+
+

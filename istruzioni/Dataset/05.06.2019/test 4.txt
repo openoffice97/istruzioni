@@ -1,0 +1,5 @@
+05/06/19	12:15:00.782	C:\Icing\LabView_vi\Icing_2TC_FP_v0.5.vi
+Dt (s):		0.200000
+
+Date	Time	# meas	# cycle	V	I	Temp1	Temp2
+

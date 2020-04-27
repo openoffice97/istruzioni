@@ -1,0 +1,5 @@
+16/04/19	17:47:30.251	C:\Icing\LabView_vi\Icing_2TC_FP_v0.5.vi
+Dt (s):		0.200000
+test with temp 1 top and temp 2 inside prepreg
+Date	Time	# meas	# cycle	V	I	Temp1	Temp2
+

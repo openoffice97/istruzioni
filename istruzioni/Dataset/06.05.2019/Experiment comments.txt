@@ -1,0 +1,100 @@
+06.06.19
+System 1
+
+2V case
+RH 46.6-47.1
+Tamb 20.9
+
+
+Comparison system 1(with graphene), 2(without graphene) and 3(without graphene and with 
+new thermocouples) without any drop.
+
+Cooling time 200s, time P Off 200s
+
+System 1
+2V case
+RH 48.8-48-47.6
+Tamb 20.3-20.4
+
+Note: the surface is dry (also compressor was used). The impulsive response of T can be due to
+condensation and freezing of vapour particles (relativly high hulidity) somewhere on the prepreg 
+plate or just near graphene sheet; this could be used in order to detect ice formation using the
+high graphene thermal conductivity (graphene net).
+During the first melting cycle there is a melting region, wich means that somewhere ice was 
+formed. 
+
+
+3V case
+RH 49.3-48.1-47
+Tamb 20.3-20.4
+
+Note:
+
+
+4V case
+RH 48.7-46.3-45.3
+Tamb 20.2-20.3
+
+Note:
+
+
+6V case
+RH 47.5-46-46.8
+Tamb 20.2-20.4
+
+Note:
+
+
+7V case
+RH 46.3
+Tamb 20.4
+
+Note:
+
+
+2V case, 3drops of salty water
+RH 46-45-44.6-44
+Tamb 20.9
+
+Note: during the first cooling cycle the first peak does not correspond 
+to ice formaion inside the drop.
+
+During the second cooling cycle the first peak does not correspond 
+to ice formaion inside the drop, also because T2>T1 and it means that the 
+phenomenon is closer to T2.
+
+3V case, 3drops of salty water
+RH 49.6-50.2
+Tamb 20.6
+
+Note:
+
+4V case, 3drops of salty water
+RH 46.2-45.6
+Tamb 20.7-20.8
+
+Note: during the cooling cycles there are always 2 impulses of T(t); the first one is problably
+due to very thin ice sheet formation on the prepreg while the second one is due to the phase 
+chenge of the drop.
+
+
+6V case, 3drops of salty water
+RH 46.8-46-44.4-45
+Tamb 20.7-20.8
+
+Note: during the first cooling cycle the first "big" temperature impulse is due to ice formation
+inside the drop.
+
+
+
+--------------------
+
+System 2
+2V case
+RH 
+Tamb
+
+Note:
+
+
+

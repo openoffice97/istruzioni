@@ -1,0 +1,23 @@
+28.06.2019
+
+Experiments with constant cooling rate
+
+
+5°C/min
+dt = 300s
+
+Vdrop = 5µl
+T0drop = 24.8°C
+
+Tamb = 25.9-25.8
+RH = 45.2-44.6-
+
+
+10°C/min
+dt = 120s
+
+Vdrop = 5µl
+T0drop = 25°C
+
+Tamb = 25.5-25.6
+RH = 44.5-44.9

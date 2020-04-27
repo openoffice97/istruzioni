@@ -1,0 +1,75 @@
+12.11.19
+
+2V case
+40ul, normal water
+T0 drop=19°C
+
+RH 62.3-60.6
+Tamb 19.3
+
+Note:
+
+
+3V case
+40ul, normal water
+T0 drop=19.2°C
+
+RH 63.3-60.2
+Tamb 19.4
+
+Note: during the first cooling cycle ice starts to form very slowly 
+starting from the bottom-lateral region.
+The second cooling cycle starts with ice still on the top of the drop.
+
+
+4V case
+40ul, normal water
+T0 drop=19.3°C
+
+RH 63.8-62.5-60.2
+Tamb 19.3-19.4
+
+Note: during the first cooling cycle ice starts to form very slowly 
+starting from the bottom-lateral region.
+The second cooling cycle starts with ice still on the top of the drop.
+
+6V case
+40ul, normal water
+T0 drop=19.5°C
+
+RH 62.8-58.4
+Tamb 19.4-19.6
+
+Note: during the first cooling cycle ice starts to form very slowly 
+starting from the bottom-lateral region.
+The second cooling cycle starts with ice still on the top of the drop.
+
+
+7V case
+40ul, normal water
+T0 drop=19.6°C
+
+RH 62.6-61.4-58.1-58.3
+Tamb 19.4-19.5-19.6
+
+Note: during the first cooling cycle ice starts to form very slowly 
+starting from the bottom-lateral region.
+The second cooling cycle starts with ice still on the top of the drop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

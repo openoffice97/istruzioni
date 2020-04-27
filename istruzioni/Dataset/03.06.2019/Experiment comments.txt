@@ -1,0 +1,88 @@
+03.06.2019
+Freezing-melting cycles
+
+-2V case
+RH 56.6-51.1
+Tamb 21.9
+no condensation during the first cooling phase
+no melting processes during the first phase
+no condensation during the second cooling phase
+no melting processes during the second phase
+
+Note: just small drops on the border of the plate/Peltier
+
+-3V case
+RH 55.9-48.2-46
+Tamb 21.9-22
+
+Note: just small drops on the border of the plate/Peltier
+During the first iteration in the melting region small drops of ice 
+turned into water drops (it can be seen from the curve T(t))
+During the second cooling region the kinks are probably due to water to ice phase change
+of small water drops on the borders of the Peltier
+
+
+-4V case
+RH 55.9-45.8
+Tamb 22-22.1
+
+
+Note: during the first cooling region the kinks are probably due to water to ice phase change
+of small water drops on the borders of the Peltier
+During the first melting cycle the phase change of droplets makes the plateau of T(t)
+
+
+-5.3V case
+RH 55.2-47.2-46.8-45.9-44.4
+Tamb 22.1-22.2
+
+Note: during the first cooling cycle small drops of ice form also if before it was no water drop
+During both cooling cycles no evident freezing appears on the graphs but qctually small drops
+on the sides of the Peltier freeze
+At the end of the second cooling cycle small filaments at the border of the prepreg plate appeared
+and they disappeared during the melting cycle
+
+
+-6V case
+RH 54.5-48.3-47.2-44.3
+Tamb 22.1-22.3
+
+Note: during the first cooling cycle small drops of ice form also if before it was no water drop
+During the second melting cycle it seems that the plateau is reached when the ice "filaments" melt
+
+
+-7V case
+RH 50.4-45.1-44.7
+Tamb 22.2-22.3
+
+Note: by looking the first cooling cycle it seems that no ice is formed also if small 
+ice drops are formed
+During the second melting phase it seems that the plateau is not due to ice to water phase change 
+of lateral drops (they were still present)
+
+
+-8V case
+RH 52.7-48.7-44.9-43.4
+Tamb 22.2-22.3
+
+Note: during the first cooling cycle a change of dT/dt is present
+
+
+2 drops of normal water
+-2V case
+RH 51.2-47.5-46-44.4
+Tamb 22.4
+
+Note: during the first cooling cycle no ice appears in the drop
+during the first melting cycle no plateau appears in T(t)
+during the second cooling cycle there are some small peaks in T(t), (maybe) some ice crystals in the drops 
+appear but they remain also after the second melting cycle
+
+
+
+
+
+
+
+
+

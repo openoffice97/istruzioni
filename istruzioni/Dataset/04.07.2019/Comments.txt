@@ -1,0 +1,48 @@
+04.07.2019
+
+New experiments without drop pressing a bit the prepreg 
+plate in order to encrease the thermal contact with Peltier
+
+----------
+3V case
+
+RH 46.6-44.6
+Tamb 21.5-21.6
+
+3V case better contact
+
+RH 44.2
+Tamb 22.6
+
+
+4V case
+
+RH 46.6-46.4-46
+Tamb 21.7-21.8
+
+4V case better contact
+
+RH 45.5-44.9-44.1-43-
+Tamb 22.5
+
+
+6V case
+
+RH 44-44.8-45-44.7
+Tamb 21.9
+
+6V case better contact
+
+RH 45.9
+Tamb 22.6
+
+
+7V case
+
+RH 45.7-45.4-45
+Tamb 21.9-22
+
+7V case better contact
+
+RH 
+Tamb 

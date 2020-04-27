@@ -1,0 +1,49 @@
+24.06.19
+
+In this experiment T1 is on the plate in order to measure the air temperature in time near 
+the plate (in order to have an idea of h_air-plate).
+Before each experiment the plate is made dry (cleaned), because the relative high humidity 
+makes it wet during the melting phase.
+
+2V case
+RH 66.3
+Tamb 23.6
+
+
+3V case
+RH 68.8-67.3-66.9
+Tamb 23.2-23.3
+
+
+4V case
+RH 68.7
+Tamb 23.2
+
+
+6V case
+RH 66.7
+Tamb 23.7
+
+
+----------
+Good ones
+
+2V case
+
+
+
+3V case
+RH 65.1
+Tamb 24.1
+
+4V case
+RH 
+Tamb 
+
+6V case
+RH 
+Tamb 
+
+7V case
+RH 
+Tamb 
